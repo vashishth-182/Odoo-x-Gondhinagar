@@ -1,1 +1,1 @@
-# Odoo-Hackathon-October-
+# Odoo-x-IIT-Gandhinagar
