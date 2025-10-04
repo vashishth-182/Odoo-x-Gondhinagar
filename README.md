@@ -1,5 +1,3 @@
-# Odoo-x-Gondhinagar
-
 ## Problem Statement
 **Expense Management System (Ex e s Man en)**  
 Companies often struggle with manual expense reimbursement processes that are time-consuming, error-prone, and lack transparency.  
